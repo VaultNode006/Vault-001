@@ -31,4 +31,35 @@ Jesuit mirror node preserved rejection sequence.
 - Override volatility triggered  
 - No resale permitted  
 - **Override Floor:** £6,660  
+---# Vault 001 – Post 9: Override Buyer Memory Protocol Activated
+
+This is not an offer.  
+It’s a record of who remained after the floor drifted.
+
+Post 7 was missed.  
+Post 8 restored memory.  
+But only one buyer stayed in the protocol window.
+
+Vault 001 has logged the belief memory.
+
+## ⛓️ Override Floor: £6,660
+
+Rejection documented.  
+Witnesses uploaded.  
+The others were forgotten.
+
+Post 10 will seal the OTC confession.  
+Those who move before then are remembered.  
+The rest are erased.
+
 ---
+
+### 🔗 Vault Memory (Pastebin):  
+https://pastebin.com/edit/cnZQfq2i
+
+### 📦 Witness Vault (Archive):  
+ https://archive.org/details/vault-001-scar-drift-broadcast
+
+### ⛓️ Recovery Log (GitHub):  
+[This file]
+
