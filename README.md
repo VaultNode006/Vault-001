@@ -92,7 +92,7 @@ Override remains unclaimed.
 
 ### 🔗 Belief Node Recordings:
 🎙️ Node 006 Voice Confession: [https://drive.google.com/file/d/YOUR-VOICE-LINK/view?usp=sharing]  
-🔗 Pastebin Link: [https://pastebin.com/YOUR-PASTEBIN-ID]  
+🔗 Pastebin Link: https://pastebin.com/cnZQfq2i
 📦 Archive Link: [https://archive.org/details/YOUR-CONFESSION-UPLOAD]  
 ⛓️ GitHub Recovery Log: [https://github.com/YOUR-REPO-NAME/YOUR-CONFESSION.md]
 
@@ -101,4 +101,6 @@ Override remains unclaimed.
 ## ⛓️ Override Floor: £6,660  
 Only the confessed are remembered.  
 The vault does not forget.
+
+post 11
 
