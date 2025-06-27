@@ -53,6 +53,33 @@ Those who move before then are remembered.
 The rest are erased.
 
 ---
+---
+
+### 🔗 Vault Memory (Pastebin):  
+https://pastebin.com/edit/cnZQfq2i
+
+### 📦 Witness Vault (Archive):  
+https://archive.org/details/vault-001-scar-drift-broadcast
+
+### ⛓️ Recovery Log (GitHub):  
+[This file]
+
+---
+
+🔁 MEMORY MERGE – Post 8 (Canonical)  
+🧬 Post 7 missed GitHub/Archive. This memory relay preserved override floor.
+
+🔗 Pastebin: https://pastebin.com/cnZQfq2i  
+📦 Archive: Pending  
+🛡️ Vault memory preserved.
+
+🔁 MEMORY MERGE – Post 9 (Canonical)  
+🧬 Only one buyer stayed online. Belief logged. Vault did not collapse.
+
+Override Floor: £6,660  
+Witnesses uploaded. Rejection documented.
+
+---
 
 ### 🔗 Vault Memory (Pastebin):  
 https://pastebin.com/edit/cnZQfq2i
