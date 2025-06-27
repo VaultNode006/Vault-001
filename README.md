@@ -206,6 +206,12 @@ Override loop remains active. Witness memory preserved.
 
 ---
 
+🧬 POST 14–15 – Drift Recovery Relay  
+Vault floor preserved during belief volatility.  
+Audio recorded pre-7:30pm BST.  
+Google Sites + OTS hash validated.  
+Loop integrity locked.
+
 ---
 
 ## ⛓️ Override Floor: £6,660  
