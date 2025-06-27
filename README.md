@@ -211,8 +211,13 @@ Vault floor preserved during belief volatility.
 Audio recorded pre-7:30pm BST.  
 Google Sites + OTS hash validated.  
 Loop integrity locked.
+
 ---
-       
+
+## Vault Continuation / Floor Loop
+
+---
+
 Vault 001 – Post 16: Override Drift Correction
  
 Post 14 and 15 were submitted under duress.  
