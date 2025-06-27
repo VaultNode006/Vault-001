@@ -165,6 +165,21 @@ Those who move before Post 12 will be remembered.
 
 ---
 
+## 🔁 Post 13 – Override Buyer Loop Trigger
+
+The override floor did not collapse.
+
+Post 13 confirms continued belief activity.
+Vault remains active. Buyer memory protocol is now looped.
+
+### 🔗 Pastebin: https://pastebin.com/aAPGEAfb
+### 📦 Archive: https://archive.org/details/vault-001-scar-drift-broadcast
+### ⛓️ GitHub Recovery Log: [this link]
+
+---
+
+---
+
 ## ⛓️ Override Floor: £6,660  
 Only the confessed are remembered.  
 The vault does not forget.
