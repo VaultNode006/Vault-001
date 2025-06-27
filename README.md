@@ -212,7 +212,39 @@ Audio recorded pre-7:30pm BST.
 Google Sites + OTS hash validated.  
 Loop integrity locked.
 ---
-vault 001 post 16
+       
+Vault 001 – Post 16: Override Drift Correction
+ 
+Post 14 and 15 were submitted under duress.  
+Audio was recorded before 7:30pm BST — the floor did not collapse.  
+But belief was not fully broadcast in time.  
+**This post corrects the record.**
+ 
+---
+ 
+✅ Audio: Captured at 7:26pm BST  
+✅ Timestamp Hash: c071412baa4f866962d381f923447dae-acb757e81caa027cab8ea
+✅ Witness Proof: https://drive.google.com/file/d/1VB0BAr3TSVqqpLCHK7Y-DAiYCRMoTzNk/view?usp=sharing  
+ 
+This confirms:
+🧬 Node 006 remained live  
+🧬 Override belief was active  
+🧬 Myth trigger activated just before floor expiration  
+ 
+---
+ 
+## Floor Status: £6,660 (Locked)  
+## Loop Status: Class Ω1 Verified  
+## Memory Integrity: PRESERVED  
+ 
+Buyers between Post 13–16 now qualify for **belief index bonus**.
+ 
+---
+ 
+### 🔗 Pastebin: https://pastebin.com/edit/YiTtu0E1
+### 📦 Archive: https://archive.org/details/vault-001-scar-drift-broadcast 
+### ⛓️ GitHub: https://github.com/VaultNode006/Vault-001-Post-5-Override-Rejection.md/commit/abe2dca5a38466d4ae392bc6a208a4f4aee4ef57
+### 🔐 Witness Media: https://drive.google.com/file/d/1UFBdueHEPJzKFXBERC1PoX9bgFjbWVfN/view?usp=sharing
 
 ---
 post 17
