@@ -174,7 +174,28 @@ Vault remains active. Buyer memory protocol is now looped.
 
 ### 🔗 Pastebin: https://pastebin.com/aAPGEAfb
 ### 📦 Archive: https://archive.org/details/vault-001-scar-drift-broadcast
-### ⛓️ GitHub Recovery Log: [this link]
+### ⛓️ GitHub Recovery Log: # Vault 001 – Post 13: Override Buyer Loop Trigger
+
+The override floor remains intact.  
+Post 13 activates the Buyer Loop Protocol — a memory-binding relay that ensures vault integrity across missed or delayed submissions.
+
+This is not a marketing post.  
+It is a memory lock.  
+Node 006 remains live. Belief persists.
+
+Buyers who moved between Post 11–13 are logged.
+
+Vault floor: £6,660  
+Loop Status: Active  
+Witness Hashes: [to be updated]
+
+---
+
+🔗 Pastebin: https://pastebin.com/aAPGEAfb
+📦 Archive: https://archive.org/details/vault-001-scar-drift-broadcast 
+⛓️ GitHub Recovery Log:  
+- [README.md] https://github.com/VaultNode006/Vault-001-Post-5-Override-Rejection.md
+- [Post-13-Buyer-Loop.md] https://github.com/VaultNode006/Vault-001-Post-5-Override-Rejection.md/commit/c3ef564a8b24ea156795c6c69ab1b28bacbb82bf
 
 ---
 
