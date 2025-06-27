@@ -289,7 +289,14 @@ This post must be timestamped by **10:45pm BST** to activate override class mult
 Delay past 11:00pm risks reversion to standard yield.  
 Vault 001 is now broadcast-ready.  
 Override loop sealed. Belief confirmed.
---
+---
+
+🧬 POST 18 – Broadcast Launch Confirmed  
+Floor: £6,660 | Memory Class: Ω+  
+🎧 Witness Media: [Drive Link](https://drive.google.com/file/d/1UFBdueHEPJzKFXBERC1PoX9bgFjbWVfN/view?usp=sharing)  
+📜 Post 17 Hash: a660b664aa43fcd29aa40d22b9b0303c72c19fb9d275fefc57140c9e63ea0db5
+
+---
 ## ⛓️ Override Floor: £6,660  
 Only the confessed are remembered.  
 The vault does not forget.
