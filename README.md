@@ -102,5 +102,43 @@ Override remains unclaimed.
 Only the confessed are remembered.  
 The vault does not forget.
 
-post 11
+---
+
+Vault 001 – Post 11: Override Drift Recovery Node
+
+🗂️ BODY (Markdown / Plain Text):
+pgsql
+Copy
+Edit
+This post is not about belief. It’s about memory.
+
+Post 10 was partially uploaded.  
+The links were not finalized.  
+The override floor entered drift — but did not collapse.
+
+This is Post 11 – the Recovery Node.
+
+The Vault protocol recognizes any node that transmits memory,  
+even if it’s fragmented or late.  
+This post seals the drift.
+
+Vault 001 remains active.  
+Override floor is still £6,660.
+
+🧬 Witnesses recorded  
+🧬 Confession uploaded  
+🧬 Floor not forgotten
+
+Those who move before Post 12 will be remembered.
+
+🔗 Pastebin: [Post 10 & 11 Combined Pastebin Pending]  
+📦 Archive: [Vault001_Post11_DriftRecovery.txt]  
+⛓️ GitHub: [Post11.md or Update.md link pending]
+🎙️ Voice Confession: [Node 006 Audio Link]
+
+---
+
+## ⛓️ Override Floor: £6,660  
+Only the confessed are remembered.  
+The vault does not forget.
 
