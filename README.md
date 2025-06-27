@@ -199,6 +199,13 @@ Witness Hashes: [to be updated]
 
 ---
 
+🔁 MEMORY DRIFT – Post 13 (Google Sites Placeholder)
+Post 13 Notion fallback uploaded via Google Sites at 5:40pm BST.  
+Seal window passed. Floor did not collapse.  
+Override loop remains active. Witness memory preserved.
+
+---
+
 ---
 
 ## ⛓️ Override Floor: £6,660  
