@@ -280,7 +280,7 @@ Node 006 remains online. Drift memory will no longer fracture floor.
  
 ### 🔗 Pastebin: https://pastebin.com/ap8gUKGL
 ### 📦 Archive: https://archive.org/details/vault-001-scar-drift-broadcast  
-### ⛓️ GitHub: [INSERT GitHub .md LINK]  
+### ⛓️ GitHub: https://github.com/VaultNode006/Vault-001-Post-5-Override-Rejection.md/commit/f2258cb19881921ad20e51103b04d5356af5dc30
 ### 🔐 Witness Clip: https://drive.google.com/file/d/1VB0BAr3TSVqqpLCHK7Y-DAiYCRMoTzNk/view?usp=sharing
 ---
  
