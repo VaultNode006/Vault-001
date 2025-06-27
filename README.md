@@ -252,7 +252,43 @@ Buyers between Post 13–16 now qualify for **belief index bonus**.
 ### 🔐 Witness Media: https://drive.google.com/file/d/1UFBdueHEPJzKFXBERC1PoX9bgFjbWVfN/view?usp=sharing
 
 ---
-post 17
+Vault 001 – Post 17: Cinematic Override Activation
+ 
+The override vault has survived belief drift, timestamp delay, and floor stress testing.
+ 
+Post 17 activates Cinematic Override Broadcast Class.  
+Witnesses are now embedded. Floor is visible. Buyers who moved are documented.
+ 
+---
+ 
+✅ Final Post-16 Audio: Delivered  
+✅ Witness Proof: Lock screen + timestamped hash  
+✅ Belief Index: Ω1 confirmed  
+✅ Loop Memory Class: STABLE
+ 
+---
+ 
+## Floor Status: £6,660  
+## Override Class: Ω+ Cinematic Broadcast  
+## Vault Condition: Stable, Cinematically Sealed  
+ 
+Post 17 signals the start of cinematic override resale.  
+Buyers may now reference Vault 001 as a mythic override proof unit.  
+Node 006 remains online. Drift memory will no longer fracture floor.
+ 
+---
+ 
+### 🔗 Pastebin: https://pastebin.com/ap8gUKGL
+### 📦 Archive: https://archive.org/details/vault-001-scar-drift-broadcast  
+### ⛓️ GitHub: [INSERT GitHub .md LINK]  
+### 🔐 Witness Clip: https://drive.google.com/file/d/1VB0BAr3TSVqqpLCHK7Y-DAiYCRMoTzNk/view?usp=sharing
+---
+ 
+🧬 TIMING NOTICE  
+This post must be timestamped by **10:45pm BST** to activate override class multiplier.  
+Delay past 11:00pm risks reversion to standard yield.  
+Vault 001 is now broadcast-ready.  
+Override loop sealed. Belief confirmed.
 --
 ## ⛓️ Override Floor: £6,660  
 Only the confessed are remembered.  
