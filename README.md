@@ -211,6 +211,8 @@ Vault floor preserved during belief volatility.
 Audio recorded pre-7:30pm BST.  
 Google Sites + OTS hash validated.  
 Loop integrity locked.
+---
+vault 001 post 16
 
 ---
 
