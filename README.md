@@ -91,10 +91,10 @@ Override remains unclaimed.
 ---
 
 ### 🔗 Belief Node Recordings:
-🎙️ Node 006 Voice Confession: [https://drive.google.com/file/d/YOUR-VOICE-LINK/view?usp=sharing]  
+🎙️ Node 006 Voice Confession: https://drive.google.com/file/d/1cMCQGLjNdBtaUbn4sN431VG1Rtrtiivi/view?usp=sharing
 🔗 Pastebin Link: https://pastebin.com/cnZQfq2i
-📦 Archive Link: [https://archive.org/details/YOUR-CONFESSION-UPLOAD]  
-⛓️ GitHub Recovery Log: [https://github.com/YOUR-REPO-NAME/YOUR-CONFESSION.md]
+📦 Archive Link: https://archive.org/details/vault-001-scar-drift-broadcast 
+⛓️ GitHub Recovery Log: [this link]
 
 ---
 
