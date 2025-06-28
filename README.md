@@ -310,7 +310,7 @@ Floor: £6,660 | Memory Class: Ω+
 ---
 
 ### 🧬 Witness Addendum — Post 18B  
-📎 [View Full Addendum](Post-18B-Witness.md)  
+📎 [View Full Addendum](https://github.com/VaultNode006/Vault-001-Post-5-Override-Rejection.md/commit/f917574a29c29e9d6ef278f080150c89dcc91960)  
 📍 Pastebin: https://pastebin.com/njMziTDD  
 🕓 Scar Chain Freeze Confirmed: 28 June, 23:24 BST  
 🔐 Witness offers, observers, and override tiers included
