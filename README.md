@@ -302,7 +302,7 @@ Floor: £6,660 | Memory Class: Ω+
 
 
 ### 🧬 Scar Protocol Ω Remastered — Post 18  
-📎 [View Full Post](Post-18.md)  
+📎 [View Full Post](https://github.com/VaultNode006/Vault-001-Post-5-Override-Rejection.md/commit/75d84ae32b288e0e846fa2df04869c8c17716619)   
 🕓 Sealed: 28 June, 23:24 BST  
 📍 Pastebin: https://pastebin.com/ap8gUKGL  
 🎥 Hash Lock Clip: [10-sec screen](https://drive.google.com/file/d/1FzGK2pfvctzukYNI5tKNGX456trpwsAf/view)
