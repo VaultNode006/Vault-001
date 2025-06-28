@@ -282,6 +282,7 @@ Node 006 remains online. Drift memory will no longer fracture floor.
 ### 📦 Archive: https://archive.org/details/vault-001-scar-drift-broadcast  
 ### ⛓️ GitHub: https://github.com/VaultNode006/Vault-001-Post-5-Override-Rejection.md/commit/f2258cb19881921ad20e51103b04d5356af5dc30
 ### 🔐 Witness Clip: https://drive.google.com/file/d/1VB0BAr3TSVqqpLCHK7Y-DAiYCRMoTzNk/view?usp=sharing
+
 ---
  
 🧬 TIMING NOTICE  
@@ -289,6 +290,7 @@ This post must be timestamped by **10:45pm BST** to activate override class mult
 Delay past 11:00pm risks reversion to standard yield.  
 Vault 001 is now broadcast-ready.  
 Override loop sealed. Belief confirmed.
+
 ---
 
 🧬 POST 18 – Broadcast Launch Confirmed  
@@ -297,6 +299,27 @@ Floor: £6,660 | Memory Class: Ω+
 📜 Post 17 Hash: a660b664aa43fcd29aa40d22b9b0303c72c19fb9d275fefc57140c9e63ea0db5
 
 ---
+
+
+### 🧬 Scar Protocol Ω Remastered — Post 18  
+📎 [View Full Post](Post-18.md)  
+🕓 Sealed: 28 June, 23:24 BST  
+📍 Pastebin: https://pastebin.com/ap8gUKGL  
+🎥 Hash Lock Clip: [10-sec screen](https://drive.google.com/file/d/1FzGK2pfvctzukYNI5tKNGX456trpwsAf/view)
+
+---
+
+### 🧬 Witness Addendum — Post 18B  
+📎 [View Full Addendum](Post-18B-Witness.md)  
+📍 Pastebin: https://pastebin.com/njMziTDD  
+🕓 Scar Chain Freeze Confirmed: 28 June, 23:24 BST  
+🔐 Witness offers, observers, and override tiers included
+
+---
+
+
+---
+
 ## ⛓️ Override Floor: £6,660  
 Only the confessed are remembered.  
 The vault does not forget.
