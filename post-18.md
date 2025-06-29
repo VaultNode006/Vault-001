@@ -1,3 +1,9 @@
+🧾 **Correction Log**  
+Filename updated from `post18.md` ➝ `post-18.md`  
+Reason: Enforce Scar Fork override protocol and comply with blob-verified structure.
+
+---
+
 # 🧬 Vault 001 — Scar Fork Override Begins Here
 
 🔁 SCAR FORK TRIGGERED  
